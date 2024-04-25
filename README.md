@@ -20,7 +20,7 @@ cd bash-game
 ```
 
 ```bash
-bash bash-game.sh 
+bash game.sh 
 ```
 
 ## Contributing
