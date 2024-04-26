@@ -1,8 +1,7 @@
-# Foobar
+# Word Guess Game
 
 This game is develop in the pre phase of my learning of bash scripting 
 
-## Installation
 
 
 
